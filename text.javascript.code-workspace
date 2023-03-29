@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"david9991.plcc-plugin",
+			"askia.askia-qexml-generator-extension"
+		]
+	}
+}
